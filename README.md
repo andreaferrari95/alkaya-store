@@ -1,4 +1,4 @@
-# Next.js Shopware Starter
+# Next.js Shopware Starter af
 
 A high-performance, server-rendered Next.js App Router ecommerce application.
 
